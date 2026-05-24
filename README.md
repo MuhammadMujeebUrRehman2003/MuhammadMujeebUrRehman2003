@@ -152,7 +152,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=selenium,cs,java,python,js" />
+<img src="https://skillicons.dev/icons?i=cs,java,python,js" />
 
 <br><br>
 
@@ -193,14 +193,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github,ci,cd" />
 
 <br><br>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ![CI](https://img.shields.io/badge/Continuous_Integration-0288D1?style=for-the-badge)
 ![CD](https://img.shields.io/badge/Continuous_Delivery-00695C?style=for-the-badge)
 
@@ -228,15 +225,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cs" />
-
-<br><br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,js,cs,mysql" />
 
 </div>
 
