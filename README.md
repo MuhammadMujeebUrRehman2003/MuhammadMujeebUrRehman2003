@@ -193,13 +193,15 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github,ci,cd" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github,docker,kubernetes" />
 
-<br><br>
+<img width="12" />
 
+<img src="https://cdn.simpleicons.org/circleci" height="48" alt="CI logo" />
 
-![CI](https://img.shields.io/badge/Continuous_Integration-0288D1?style=for-the-badge)
-![CD](https://img.shields.io/badge/Continuous_Delivery-00695C?style=for-the-badge)
+<img width="12" />
+
+<img src="https://cdn.simpleicons.org/argo" height="48" alt="CD logo" />
 
 </div>
 
@@ -235,13 +237,18 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img width="12" />
 
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="mysql logo" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Queries](https://img.shields.io/badge/SQL_Queries_for_Validation-336791?style=for-the-badge)
-![Test Data Setup](https://img.shields.io/badge/Test_Data_Setup-00796B?style=for-the-badge)
+<img width="12" />
+
+<img src="https://cdn.simpleicons.org/sqlite" height="48" alt="sql queries logo" />
+
+<img width="12" />
+
+<img src="https://cdn.simpleicons.org/databricks" height="48" alt="test data setup logo" />
+
 
 </div>
 
@@ -280,13 +287,68 @@
 
 <div align="center">
 
+<!-- IDEs & Editors -->
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
 
-<br><br>
+<img width="12" />
 
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Extent Reports](https://img.shields.io/badge/Extent_Reports-FF5722?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel_Test_Management-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<!-- Selenium -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="48" alt="selenium logo" />
+
+<img width="12" />
+
+<!-- Playwright -->
+<img src="https://playwright.dev/img/playwright-logo.svg" height="48" alt="playwright logo" />
+
+<img width="12" />
+
+<!-- Cypress -->
+<img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon_48x48.png" height="48" alt="cypress logo" />
+
+<img width="12" />
+
+<!-- Appium -->
+<img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" height="48" alt="appium logo" />
+
+<img width="12" />
+
+<!-- Postman -->
+<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="48" alt="postman logo" />
+
+<img width="12" />
+
+<!-- JMeter -->
+<img src="https://jmeter.apache.org/images/jmeter_square.svg" height="48" alt="jmeter logo" />
+
+<img width="12" />
+
+<!-- Jira -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira logo" />
+
+<img width="12" />
+
+<!-- Jenkins -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="48" alt="jenkins logo" />
+
+<img width="12" />
+
+<!-- Chrome DevTools -->
+<img src="https://cdn.simpleicons.org/googlechrome" height="48" alt="chrome devtools logo" />
+
+<img width="12" />
+
+<!-- Excel -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="48" alt="excel logo" />
+
+<img width="12" />
+
+<!-- GitHub -->
+<img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo" />
+
+<img width="12" />
+
+<!-- Git -->
+<img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo" />
 
 </div>
 
