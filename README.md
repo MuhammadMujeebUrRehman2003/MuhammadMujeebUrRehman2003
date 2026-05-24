@@ -61,6 +61,7 @@
 ## 💼 Work Experience
 
 ### 🏢 QA Engineer Intern (Odoo Developer) — Eaxeesoft | Karachi
+
 **Nov 2025 – Jan 2026**
 
 - 🔍 Embedded QA practices into the full development lifecycle of **2 Odoo ERP modules** (User Management System & Point of Sale); performed functional, smoke, and exploratory testing prior to stakeholder handoff, documenting **10+ defects** with reproduction steps, severity ratings, and priority classifications.
@@ -81,12 +82,16 @@
 
 **Tech Stack:**
 
+<div align="center">
+
 ![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
 ![POM](https://img.shields.io/badge/Page_Object_Model-0052CC?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Extent Reports](https://img.shields.io/badge/Extent_Reports-FF5722?style=for-the-badge)
+
+</div>
 
 **What I built:**
 
@@ -104,12 +109,16 @@
 
 **Tech Stack:**
 
+<div align="center">
+
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-1E90FF?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-00C853?style=for-the-badge)
 ![Gherkin](https://img.shields.io/badge/BDD_Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![RTM](https://img.shields.io/badge/RTM-546E7A?style=for-the-badge)
+
+</div>
 
 **What I did:**
 
@@ -126,6 +135,8 @@
 
 ### ✅ Manual Testing
 
+<div align="center">
+
 ![Test Case Design](https://img.shields.io/badge/Test_Case_Design-1E90FF?style=for-the-badge)
 ![Functional Testing](https://img.shields.io/badge/Functional_Testing-00C853?style=for-the-badge)
 ![Regression Testing](https://img.shields.io/badge/Regression_Testing-8E24AA?style=for-the-badge)
@@ -136,9 +147,13 @@
 ![Boundary Value Analysis](https://img.shields.io/badge/Boundary_Value_Analysis-0288D1?style=for-the-badge)
 ![Equivalence Partitioning](https://img.shields.io/badge/Equivalence_Partitioning-00897B?style=for-the-badge)
 
+</div>
+
 ---
 
 ### 🤖 Automation Testing
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=selenium,cs,java,python,js" />
 
@@ -153,9 +168,13 @@
 ![Extent Reports](https://img.shields.io/badge/Extent_Reports-FF5722?style=for-the-badge)
 ![End to End](https://img.shields.io/badge/End_to_End_Testing-1565C0?style=for-the-badge)
 
+</div>
+
 ---
 
 ### 🔌 API Testing
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=postman" />
 
@@ -170,9 +189,13 @@
 ![JSON Validation](https://img.shields.io/badge/JSON_Schema_Validation-607D8B?style=for-the-badge)
 ![Status Codes](https://img.shields.io/badge/Status_Code_Verification-00897B?style=for-the-badge)
 
+</div>
+
 ---
 
 ### ⚙️ CI/CD & DevOps
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
 
@@ -185,9 +208,13 @@
 ![CI](https://img.shields.io/badge/Continuous_Integration-0288D1?style=for-the-badge)
 ![CD](https://img.shields.io/badge/Continuous_Delivery-00695C?style=for-the-badge)
 
+</div>
+
 ---
 
 ### 📋 Test Management
+
+<div align="center">
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![AIO Tests](https://img.shields.io/badge/AIO_Tests-6A1B9A?style=for-the-badge)
@@ -197,9 +224,13 @@
 ![Bug Tracking](https://img.shields.io/badge/Bug_Tracking-D32F2F?style=for-the-badge)
 ![Sprint Management](https://img.shields.io/badge/Sprint_Management-009688?style=for-the-badge)
 
+</div>
+
 ---
 
 ### 💻 Programming Languages
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,js,cs" />
 
@@ -211,9 +242,13 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+</div>
+
 ---
 
 ### 🗄️ Database Testing
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
@@ -223,9 +258,13 @@
 ![SQL Queries](https://img.shields.io/badge/SQL_Queries_for_Validation-336791?style=for-the-badge)
 ![Test Data Setup](https://img.shields.io/badge/Test_Data_Setup-00796B?style=for-the-badge)
 
+</div>
+
 ---
 
 ### 🏗️ ERP Development (Bonus Skill)
+
+<div align="center">
 
 ![Odoo ERP](https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -234,9 +273,13 @@
 ![CSS](https://img.shields.io/badge/CSS_Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Data Viz](https://img.shields.io/badge/Data_Visualisation_Charts-E53935?style=for-the-badge)
 
+</div>
+
 ---
 
 ### 🔄 Methodologies
+
+<div align="center">
 
 ![Agile](https://img.shields.io/badge/Agile_Scrum-009688?style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-3949AB?style=for-the-badge)
@@ -244,9 +287,13 @@
 ![Defect Life Cycle](https://img.shields.io/badge/Defect_Life_Cycle-E53935?style=for-the-badge)
 ![Test Strategy](https://img.shields.io/badge/Test_Strategy_%26_Planning-37474F?style=for-the-badge)
 
+</div>
+
 ---
 
 ### 🧰 Tools & Platforms
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
 
@@ -257,35 +304,49 @@
 ![Extent Reports](https://img.shields.io/badge/Extent_Reports-FF5722?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel_Test_Management-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+</div>
+
 ---
 
 ### 🌱 Currently Learning
+
+<div align="center">
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium_Mobile_Testing-662D91?style=for-the-badge)
 ![JMeter](https://img.shields.io/badge/JMeter_Performance_Testing-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
+</div>
+
 ---
 
 ## 📜 Certifications
 
+<div align="center">
+
 | # | Certification | Issuing Body | Year |
-|---|---|---|---|
+|:-:|---|---|:-:|
 | 🏅 | Scrum Foundation Professional Certificate (SFPC) | CertiProf | 2024 |
 | 🏅 | Scrum Fundamentals Certified (SFC) | SCRUMstudy | 2024 |
 | 🏅 | Introduction to API & RESTful APIs | Great Learning | 2024 |
 | 🏅 | Java Programming Fundamentals | Simplilearn | 2023 |
 | 🏅 | Mobile App Development for Beginners | Simplilearn | 2023 |
 
+</div>
+
 ---
 
 ## 🎓 Education
 
+<div align="center">
+
 | Degree | Institution | Duration |
-|---|---|---|
+|:-:|---|:-:|
 | 🎓 Bachelor of Science in Computer Science | Muhammad Ali Jinnah University, Karachi | Feb 2022 – Feb 2026 |
 | 📘 Intermediate — Pre-Engineering | Pakistan Shipowners Govt. College, Karachi | Aug 2019 – Aug 2021 |
+
+</div>
 
 ---
 
@@ -333,20 +394,11 @@ Test Management & Process:
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadMujeebUrRehman2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMujeebUrRehman2003&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMujeebUrRehman2003&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<div align="center">
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMujeebUrRehman2003&theme=tokyo-night&hide_border=true" />
 
