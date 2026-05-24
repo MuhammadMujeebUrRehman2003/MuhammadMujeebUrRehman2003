@@ -22,7 +22,7 @@
 
 🔍 Experienced in both **Manual Testing** and **Automation Testing**, with a strong focus on building maintainable frameworks and catching defects early in the development cycle.
 
-⚡ Hands-on with Selenium WebDriver, Postman, Jira, GitHub Actions CI/CD, Page Object Model, BDD/Cucumber, and TestNG — applied in real Agile sprint environments.
+⚡ Hands-on with Selenium WebDriver, Postman, Jira, GitHub Actions CI/CD, Page Object Model, and TestNG — applied in real Agile sprint environments.
 
 🌱 **Currently expanding into:** Cypress · Playwright · Appium (Mobile Testing) · Performance Testing
 
