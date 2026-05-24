@@ -114,7 +114,6 @@
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-1E90FF?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-00C853?style=for-the-badge)
-![Gherkin](https://img.shields.io/badge/BDD_Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![RTM](https://img.shields.io/badge/RTM-546E7A?style=for-the-badge)
 
@@ -299,7 +298,6 @@
 
 <br><br>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Extent Reports](https://img.shields.io/badge/Extent_Reports-FF5722?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel_Test_Management-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
