@@ -82,7 +82,7 @@
 **Tech Stack:**
 
 ![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
 ![POM](https://img.shields.io/badge/Page_Object_Model-0052CC?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -92,7 +92,6 @@
 
 - 🏗️ Architected a maintainable, reusable test automation framework using **Page Object Model (POM)** — decoupling test logic from UI locators to reduce future maintenance effort by an estimated **40%**.
 - ✅ Automated **30+ end-to-end test scenarios** covering login, hotel search, room booking, and payment workflows.
-- ⚙️ Configured a **GitHub Actions CI/CD pipeline** to auto-trigger the full test suite on every pull request — enabling early defect detection and continuous integration.
 - 📈 Generated rich **Extent Reports** (HTML) with pass/fail status, failure screenshots, and execution time per test.
 - 🔢 Implemented **data-driven testing** with parameterised inputs, enabling multi-dataset execution from a single script.
 - 🌿 Maintained the suite in GitHub with branching strategies and commit conventions for clean version control.
@@ -116,7 +115,6 @@
 
 - 📋 Authored **40+ structured test cases** covering positive, negative, boundary value, and equivalence partitioning scenarios — all mapped to a **Requirements Traceability Matrix (RTM)** for full functional coverage.
 - 🔌 Executed comprehensive **REST API testing via Postman** — validating HTTP response codes (200, 400, 401, 404, 500), response body schema, data integrity, and field-level accuracy across GET, POST, PUT, DELETE endpoints.
-- 🥒 Wrote **BDD feature files in Cucumber/Gherkin** to align test scenarios with business requirements and improve stakeholder readability.
 - 🐛 Identified and tracked **15+ defects in Jira** — each with reproduction steps, expected vs. actual results, severity/priority classification, and screenshots — facilitating rapid developer resolution.
 - 🔁 Performed post-fix regression testing, achieving **zero critical regression failures** throughout the project.
 
@@ -142,7 +140,7 @@
 
 ### 🤖 Automation Testing
 
-<img src="https://skillicons.dev/icons?i=selenium,java,python,js" />
+<img src="https://skillicons.dev/icons?i=selenium,cs,java,python,js" />
 
 <br><br>
 
@@ -243,7 +241,6 @@
 ![Agile](https://img.shields.io/badge/Agile_Scrum-009688?style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-3949AB?style=for-the-badge)
 ![STLC](https://img.shields.io/badge/STLC-00897B?style=for-the-badge)
-![BDD](https://img.shields.io/badge/BDD-5E35B1?style=for-the-badge)
 ![Defect Life Cycle](https://img.shields.io/badge/Defect_Life_Cycle-E53935?style=for-the-badge)
 ![Test Strategy](https://img.shields.io/badge/Test_Strategy_%26_Planning-37474F?style=for-the-badge)
 
@@ -251,7 +248,6 @@
 
 ### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
 
 <br><br>
