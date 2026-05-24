@@ -64,11 +64,11 @@
 
 **Nov 2025 – Jan 2026**
 
-- 🔍 Embedded QA practices into the full development lifecycle of **2 Odoo ERP modules** (User Management System & Point of Sale); performed functional, smoke, and exploratory testing prior to stakeholder handoff, documenting **10+ defects** with reproduction steps, severity ratings, and priority classifications.
-- 📊 Designed and executed **20+ test cases** for interactive data visualisation dashboards (bar charts, pie charts, line graphs), validating data accuracy and UI rendering across **3 browsers** (Chrome, Firefox, Edge).
+- 🔍 Embedded QA practices into the full development lifecycle of **2 Odoo ERP modules** (User Management System & Point of Sale); performed functional, smoke, and exploratory testing.
+- 📊 Designed and executed **test cases** for interactive data visualisation dashboards (bar charts, pie charts, line graphs), validating data accuracy and UI rendering across **3 browsers** (Chrome, Firefox, Edge).
 - 🧱 Validated custom Odoo module behaviour built on Python (backend), JavaScript/OWL (frontend), XML (views), and CSS — collaborating with developers to triage defects within the Odoo MVC architecture.
-- 🔄 Contributed across **3 Agile/Scrum sprints** — daily stand-ups, sprint planning, and retrospectives; tracked defects and tasks in GitHub using branching strategies and commit conventions.
-- 📄 Produced full test documentation including test plans, defect logs, and handoff reports aligned with STLC best practices, ensuring traceability from requirements to test results.
+- 🔄 Participated in daily stand-ups and managed defect tracking and task management in GitHub, adhering to branching strategies and commit conventions.
+- 📄 Producedtest documentation including test plans, defect logs, and handoff reports aligned with STLC best practices, ensuring traceability from requirements to test results.
 
 ---
 
@@ -95,8 +95,8 @@
 
 **What I built:**
 
-- 🏗️ Architected a maintainable, reusable test automation framework using **Page Object Model (POM)** — decoupling test logic from UI locators to reduce future maintenance effort by an estimated **40%**.
-- ✅ Automated **30+ end-to-end test scenarios** covering login, hotel search, room booking, and payment workflows.
+- 🏗️ Architected a maintainable, reusable test automation framework using **Page Object Model (POM)** — decoupling test logic from UI locators to reduce future maintenance effort.
+- ✅ Automated **50+ end-to-end test scenarios** covering login, hotel search, room booking, and payment workflows.
 - 📈 Generated rich **Extent Reports** (HTML) with pass/fail status, failure screenshots, and execution time per test.
 - 🔢 Implemented **data-driven testing** with parameterised inputs, enabling multi-dataset execution from a single script.
 - 🌿 Maintained the suite in GitHub with branching strategies and commit conventions for clean version control.
@@ -121,10 +121,8 @@
 
 **What I did:**
 
-- 📋 Authored **40+ structured test cases** covering positive, negative, boundary value, and equivalence partitioning scenarios — all mapped to a **Requirements Traceability Matrix (RTM)** for full functional coverage.
+- 📋 Authored **50+ structured test cases** covering positive, negative, boundary value, and equivalence partitioning scenarios — all mapped to a **Requirements Traceability Matrix (RTM)** for full functional coverage.
 - 🔌 Executed comprehensive **REST API testing via Postman** — validating HTTP response codes (200, 400, 401, 404, 500), response body schema, data integrity, and field-level accuracy across GET, POST, PUT, DELETE endpoints.
-- 🐛 Identified and tracked **15+ defects in Jira** — each with reproduction steps, expected vs. actual results, severity/priority classification, and screenshots — facilitating rapid developer resolution.
-- 🔁 Performed post-fix regression testing, achieving **zero critical regression failures** throughout the project.
 
 ---
 
@@ -161,7 +159,6 @@
 ![Selenium WebDriver](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
-![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![POM](https://img.shields.io/badge/Page_Object_Model-0052CC?style=for-the-badge)
 ![Data Driven](https://img.shields.io/badge/Data_Driven_Testing-7B1FA2?style=for-the-badge)
 ![Extent Reports](https://img.shields.io/badge/Extent_Reports-FF5722?style=for-the-badge)
