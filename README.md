@@ -252,6 +252,7 @@
 ### 🧰 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
 
 <br><br>
 
@@ -280,7 +281,6 @@
 | 🏅 | Introduction to API & RESTful APIs | Great Learning | 2024 |
 | 🏅 | Java Programming Fundamentals | Simplilearn | 2023 |
 | 🏅 | Mobile App Development for Beginners | Simplilearn | 2023 |
-| 🔄 | **ISTQB Foundation Level (CTFL)** *(In Progress)* | ISTQB | 2025 |
 
 ---
 
@@ -288,7 +288,7 @@
 
 | Degree | Institution | Duration |
 |---|---|---|
-| 🎓 Bachelor of Science in Computer Science | Muhammad Ali Jinnah University, Karachi | Feb 2022 – Present |
+| 🎓 Bachelor of Science in Computer Science | Muhammad Ali Jinnah University, Karachi | Feb 2022 – Feb 2026 |
 | 📘 Intermediate — Pre-Engineering | Pakistan Shipowners Govt. College, Karachi | Aug 2019 – Aug 2021 |
 
 ---
@@ -312,7 +312,6 @@ Automation Testing:
   ✔ Page Object Model (POM) Architecture
   ✔ Data-Driven Testing
   ✔ TestNG / JUnit Test Execution
-  ✔ BDD with Cucumber / Gherkin
   ✔ Extent Reports HTML Reporting
   ✔ CI/CD Pipeline Integration (GitHub Actions)
 
