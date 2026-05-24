@@ -50,9 +50,9 @@
 
 <div align="center">
 
-| 🧪 50+ Test Cases | 🐛 20+ Defects Reported | ⚡ ~60% Regression Time Saved | ✅ 95% Pre-Release Defect Detection |
-|:-:|:-:|:-:|:-:|
-| Designed & executed across web app projects | Logged in Jira with full documentation | Via Selenium automation framework | Achieved during Eaxeesoft internship |
+| 🧪 50+ Test Cases | 🐛 50+ Defects Reported | ⚡ Regression Time Saved |
+|:-:|:-:|:-:|
+| Designed & executed across web app projects | Logged in Jira with full documentation | Via Selenium automation framework |
 
 </div>
 
