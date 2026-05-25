@@ -389,7 +389,7 @@
 
 | Degree | Institution | Duration |
 |:-:|---|:-:|
-| 🎓 Bachelor of Science in Computer Science | Muhammad Ali Jinnah University, Karachi | Feb 2022 – Feb 2026 |
+| 🎓 Bachelor of Science in Computer Science | Mohammad Ali Jinnah University, Karachi | Feb 2022 – Feb 2026 |
 | 📘 Intermediate — Pre-Engineering | Pakistan Shipowners Govt. College, Karachi | Aug 2019 – Aug 2021 |
 
 </div>
