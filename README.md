@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-<img align="right" alt="QA Engineer at Work" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDR4b2d6c3A3Znl6c2p6bnM0c2lyYm9jYTVmM2xwb2NmbXU1ZWt0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="right" alt="SQA Engineer" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎯 Passionate **Software Quality Assurance (SQA) / QA Automation Engineer** dedicated to delivering reliable, scalable, and high-quality software through rigorous testing strategies.
 
