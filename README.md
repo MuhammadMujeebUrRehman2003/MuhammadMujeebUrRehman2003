@@ -28,8 +28,6 @@
 
 💡 **Fun fact:** I bridge dev and QA — with Odoo ERP development experience in Python, JavaScript, and XML, I bring a developer's perspective to quality assurance.
 
-📫 **Reach me at:** muj00001.rehman@gmail.com
-
 <br clear="right"/>
 
 ---
