@@ -75,8 +75,7 @@
 ---
 
 ### 🤖 Project 1 — Selenium WebDriver Automation Framework
-
-> **Target Application:** Adactin Hotel Booking Web Application
+> **Target Application:** Sauce Demo (Swag Labs) Web Application
 
 **Tech Stack:**
 
@@ -84,26 +83,26 @@
 
 ![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
+![NUnit](https://img.shields.io/badge/NUnit-9B59FF?style=for-the-badge)
 ![POM](https://img.shields.io/badge/Page_Object_Model-0052CC?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Extent Reports](https://img.shields.io/badge/Extent_Reports-FF5722?style=for-the-badge)
+![Data Driven](https://img.shields.io/badge/Data_Driven_Testing-00BCD4?style=for-the-badge)
 
 </div>
 
 **What I built:**
 
-- 🏗️ Architected a maintainable, reusable test automation framework using **Page Object Model (POM)** — decoupling test logic from UI locators to reduce future maintenance effort.
-- ✅ Automated **50+ end-to-end test scenarios** covering login, hotel search, room booking, and payment workflows.
-- 📈 Generated rich **Extent Reports** (HTML) with pass/fail status, failure screenshots, and execution time per test.
-- 🔢 Implemented **data-driven testing** with parameterised inputs, enabling multi-dataset execution from a single script.
-- 🌿 Maintained the suite in GitHub with branching strategies and commit conventions for clean version control.
+- 🏗️ Architected a scalable, maintainable test automation framework using **Page Object Model (POM)** — cleanly separating UI locators from test logic to reduce long-term maintenance overhead by an estimated 40%.
+- ✅ Automated end-to-end test scenarios covering critical user journeys — **login, product browsing, cart management, and checkout flows** — with dynamic alert handling and smart synchronization for stable, flake-resistant execution.
+- 🔢 Implemented **data-driven testing** using parameterized inputs via NUnit, enabling a single test script to run across multiple datasets — eliminating code duplication and expanding coverage without added maintenance.
+- ⚙️ Configured **NUnit Setup and Teardown hooks** for structured test lifecycle management — ensuring consistent pre/post-test state and reliable test isolation across all scenarios.
+- 📈 Generated interactive **Extent Reports** (HTML) with pass/fail status, failure screenshots, and execution summaries — providing clear visibility for stakeholders and faster root cause analysis.
 
 ---
 
-### 🔬 Project 2 — Manual Testing & API Testing Project
-
-> **Target Application:** Adactin Hotel Booking Web Application
+### 🔬 Project 2 — Manual Testing Project
+> **Target Application:** Sauce Demo (Swag Labs) Web Application
 
 **Tech Stack:**
 
@@ -111,16 +110,19 @@
 
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-1E90FF?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-00C853?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![RTM](https://img.shields.io/badge/RTM-546E7A?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
 **What I did:**
 
-- 📋 Authored **50+ structured test cases** covering positive, negative, boundary value, and equivalence partitioning scenarios — all mapped to a **Requirements Traceability Matrix (RTM)** for full functional coverage.
-- 🔌 Executed comprehensive **REST API testing via Postman** — validating HTTP response codes (200, 400, 401, 404, 500), response body schema, data integrity, and field-level accuracy across GET, POST, PUT, DELETE endpoints.
+- 📋 Wrote **50+ structured test cases** covering positive, negative, boundary value, and equivalence partitioning scenarios across key modules — login, product listing, sorting, cart, and checkout — all mapped to a **Requirements Traceability Matrix (RTM)** for complete functional coverage.
+- 📝 Structured test scenarios using **Gherkin-style format (Given/When/Then)** — making test cases easier to read, follow, and review throughout the testing process.
+- 🔌 Performed basic **API checks via Postman** — verifying that endpoints returned correct response codes (200, 400, 401, 404) and expected data, building foundational understanding of front-end and back-end communication.
+- 🐛 Reported **15+ bugs in Jira** with clear reproduction steps, expected vs. actual results, severity and priority labels, and screenshots — following a structured defect reporting process.
+- 🌐 Manually tested the application across **multiple browsers** to identify UI inconsistencies and functional issues across different environments.
 
 ---
 
