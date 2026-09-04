@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Quality+Assurance+Engineer;Manual+%26+Automation+Testing+Expert;API+Testing+%7C+CI%2FCD+%7C+Agile+QA;Selenium+%7C+NUnit+%7C+Postman+%7C+Jira;Building+Reliable+and+Bug-Free+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Quality+Assurance+Engineer;Manual+%26+Automation+Testing+Expert;API+Testing+%7C+CI%2FCD+%7C+Agile+QA;Selenium+%7C+TestNG+%7C+Postman+%7C+Jira;Building+Reliable+and+Bug-Free+Software" alt="Typing SVG" />
 
 </div>
 
@@ -22,11 +22,9 @@
 
 🔍 Experienced in both **Manual Testing** and **Automation Testing**, with a strong focus on building maintainable frameworks and catching defects early in the development cycle.
 
-⚡ Hands-on with Selenium WebDriver, C#/NUnit, Postman, Jira, GitHub Actions CI/CD, and Page Object Model — applied in real Agile sprint environments.
+⚡ Hands-on with Selenium WebDriver, Postman, Jira, GitHub Actions CI/CD, Page Object Model, and TestNG — applied in real Agile sprint environments.
 
-🟢 **Currently open to** SQA / QA Automation Engineer opportunities — Karachi & remote.
-
-🌱 **Currently expanding into:** Cypress · Playwright · Appium (Mobile Testing) · Performance Testing (JMeter) · Docker & CI/CD fundamentals
+🌱 **Currently expanding into:** Cypress · Playwright · Appium (Mobile Testing) · Performance Testing
 
 💡 **Fun fact:** I bridge dev and QA — with Odoo ERP development experience in Python, JavaScript, and XML, I bring a developer's perspective to quality assurance.
 
@@ -38,17 +36,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mujeeb-ur-rehman-6ba088233/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muj00002.rehman@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mujeeb-ur-rehman)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muj00001.rehman@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMujeebUrRehman2003)
-<!-- Once your portfolio site is live, add it here — this is prime real estate recruiters click:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com) -->
 
 </div>
-
-<!-- ⚠️ FIX BEFORE PUBLISHING: your live README currently links muj00001.rehman@gmail.com, but
-     muj00002.rehman@gmail.com is what's on file elsewhere for you. Confirm which inbox is real
-     and delete this comment once it's correct — a dead mailto: link is a silent lost opportunity. -->
 
 ---
 
@@ -56,9 +48,9 @@
 
 <div align="center">
 
-| 🧪 108 Test Cases | 🤖 20+ E2E Scenarios Automated | 🐛 15+ Defects Logged | ✅ 95%+ Stable Pass Rate |
-|:-:|:-:|:-:|:-:|
-| 30 scenarios, Jira-import ready | Selenium + GitHub Actions CI/CD | Full repro steps in Jira | Across 10+ data combinations |
+| 🧪 50+ Test Cases | 🐛 50+ Defects Reported | ⚡ Regression Time Saved |
+|:-:|:-:|:-:|
+| Designed & executed across web app projects | Logged in Jira with full documentation | Via Selenium automation framework |
 
 </div>
 
@@ -74,7 +66,7 @@
 - 📊 Designed and executed **test cases** for interactive data visualisation dashboards (bar charts, pie charts, line graphs), validating data accuracy and UI rendering across **3 browsers** (Chrome, Firefox, Edge).
 - 🧱 Validated custom Odoo module behaviour built on Python (backend), JavaScript/OWL (frontend), XML (views), and CSS — collaborating with developers to triage defects within the Odoo MVC architecture.
 - 🔄 Participated in daily stand-ups and managed defect tracking and task management in GitHub, adhering to branching strategies and commit conventions.
-- 📄 Produced test documentation including test plans, defect logs, and handoff reports aligned with STLC best practices, ensuring traceability from requirements to test results.
+- 📄 Producedtest documentation including test plans, defect logs, and handoff reports aligned with STLC best practices, ensuring traceability from requirements to test results.
 
 ---
 
@@ -107,15 +99,9 @@
 - ⚙️ Configured **NUnit Setup and Teardown hooks** for structured test lifecycle management — ensuring consistent pre/post-test state and reliable test isolation across all scenarios.
 - 📈 Generated interactive **Extent Reports** (HTML) with pass/fail status, failure screenshots, and execution summaries — providing clear visibility for stakeholders and faster root cause analysis.
 
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMujeebUrRehman2003/Automation-Framework-For-SauceDemoWebsite-Mujeeb-Using-Selenium-C-)
-
-</div>
-
 ---
 
-### 🔬 Project 2 — Manual + API Testing Project
+### 🔬 Project 2 — Manual Testing Project
 > **Target Application:** Sauce Demo (Swag Labs) Web Application
 
 **Tech Stack:**
@@ -133,83 +119,10 @@
 **What I did:**
 
 - 📋 Wrote **50+ structured test cases** covering positive, negative, boundary value, and equivalence partitioning scenarios across key modules — login, product listing, sorting, cart, and checkout — all mapped to a **Requirements Traceability Matrix (RTM)** for complete functional coverage.
-- 📝 Structured test scenarios using **Gherkin-style format (Given/When/Then)** — 50+ scenarios written for readability and review.
-- 🔌 Tested **20+ REST API endpoints via Postman** — verifying response codes (200, 400, 401, 404) and response bodies against expected results.
+- 📝 Structured test scenarios using **Gherkin-style format (Given/When/Then)** — making test cases easier to read, follow, and review throughout the testing process.
+- 🔌 Performed basic **API checks via Postman** — verifying that endpoints returned correct response codes (200, 400, 401, 404) and expected data, building foundational understanding of front-end and back-end communication.
 - 🐛 Reported **15+ bugs in Jira** with clear reproduction steps, expected vs. actual results, severity and priority labels, and screenshots — following a structured defect reporting process.
-- 🌐 Manually tested the application across **3 browsers** to identify UI inconsistencies and functional issues across different environments.
-
-<div align="center">
-
-<!-- Publish the test-case sheet, Postman collection export, and RTM as a repo, then swap this for a real View Repository badge like Project 1's. -->
-*Artifacts (test cases, Postman collection, RTM) — publish as a linked repo*
-
-</div>
-
----
-
-### 🔧 Project 3 — Adactin Hotel: Selenium POM Suite Refactor
-> **Target Application:** Adactin Hotel Booking demo site
-
-**Tech Stack:**
-
-<div align="center">
-
-![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![POM](https://img.shields.io/badge/Page_Object_Model-0052CC?style=for-the-badge)
-![Refactoring](https://img.shields.io/badge/Code_Quality_%26_Refactoring-6A1B9A?style=for-the-badge)
-
-</div>
-
-**What I did:**
-
-- 🔍 Extracted and cross-checked test cases against the underlying XML data files to confirm real coverage before touching any code.
-- 🐞 Found and fixed a **pervasive self-referential assertion bug** that had been silently letting tests pass regardless of the actual result — the kind of defect that hides real failures.
-- ⏱️ Eliminated every `Thread.Sleep()` call in favor of proper waits, removing flakiness and dead execution time.
-- 🎯 Replaced weak, brittle element locators with more resilient ones.
-- 🧱 Deduplicated repeated locators and methods into a shared `BasePage`, cutting duplication across the page classes.
-
-<div align="center">
-
-<!-- Make this repo public (or push it) and drop the real link here. -->
-*Repo link — publish and add here*
-
-</div>
-
----
-
-### 🏦 Project 4 — SkyBank Online: Built a Bank to Break It
-> A banking web app built from scratch — with defects engineered in on purpose
-
-**Tech Stack:**
-
-<div align="center">
-
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-1E90FF?style=for-the-badge)
-![Bug Design](https://img.shields.io/badge/Defect_Engineering-D32F2F?style=for-the-badge)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-E91E63?style=for-the-badge)
-
-</div>
-
-**What I did:**
-
-- 🏗️ Designed and built a banking web application from scratch — front end, flows, and logic.
-- 🐛 Deliberately engineered defects into the app's logic and UI to create a realistic, controlled environment for practicing bug discovery.
-- 🔍 Used it as a personal manual-testing sandbox, writing test cases and hunting the defects I'd planted — practicing SQA from the builder's side of the fence, not just the tester's.
-
-<div align="center">
-
-<!-- Make this repo public (or push it) and drop the real link here. -->
-*Repo link — publish and add here*
-
-</div>
-
----
-
-### 📚 Also Building
-
-- 📘 **API Testing Manual** — a 21-topic, beginner-to-advanced Postman/API testing guide with a reusable JS helper library (`manual_lib.js`), built against JSONPlaceholder.
-- 🤖 **AI QA Agent** *(in progress)* — an agent that generates end-to-end test cases straight into Jira, then Playwright automation code. First target: SauceDemo.
+- 🌐 Manually tested the application across **multiple browsers** to identify UI inconsistencies and functional issues across different environments.
 
 ---
 
@@ -217,16 +130,35 @@
 
 ---
 
+### ✅ Manual Testing
+
+<div align="center">
+
+![Test Case Design](https://img.shields.io/badge/Test_Case_Design-1E90FF?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-00C853?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-8E24AA?style=for-the-badge)
+![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-FF9800?style=for-the-badge)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-E91E63?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-00ACC1?style=for-the-badge)
+![Cross Browser Testing](https://img.shields.io/badge/Cross_Browser_Testing-5E35B1?style=for-the-badge)
+![Boundary Value Analysis](https://img.shields.io/badge/Boundary_Value_Analysis-0288D1?style=for-the-badge)
+![Equivalence Partitioning](https://img.shields.io/badge/Equivalence_Partitioning-00897B?style=for-the-badge)
+
+</div>
+
+---
+
 ### 🤖 Automation Testing
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,java,js" />
+<img src="https://skillicons.dev/icons?i=cs,java,python,js" />
 
 <br><br>
 
 ![Selenium WebDriver](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![NUnit](https://img.shields.io/badge/NUnit-9B59FF?style=for-the-badge)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
 ![POM](https://img.shields.io/badge/Page_Object_Model-0052CC?style=for-the-badge)
 ![Data Driven](https://img.shields.io/badge/Data_Driven_Testing-7B1FA2?style=for-the-badge)
 ![Extent Reports](https://img.shields.io/badge/Extent_Reports-FF5722?style=for-the-badge)
@@ -257,29 +189,19 @@
 
 ---
 
-### ✅ Manual Testing
+### ⚙️ CI/CD & DevOps
 
 <div align="center">
 
-![Test Case Design](https://img.shields.io/badge/Test_Case_Design-1E90FF?style=for-the-badge)
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-00C853?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-8E24AA?style=for-the-badge)
-![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-FF9800?style=for-the-badge)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-E91E63?style=for-the-badge)
-![UAT](https://img.shields.io/badge/UAT-00ACC1?style=for-the-badge)
-![Cross Browser Testing](https://img.shields.io/badge/Cross_Browser_Testing-5E35B1?style=for-the-badge)
-![Boundary Value Analysis](https://img.shields.io/badge/Boundary_Value_Analysis-0288D1?style=for-the-badge)
-![Equivalence Partitioning](https://img.shields.io/badge/Equivalence_Partitioning-00897B?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github,docker,kubernetes" />
 
-</div>
+<img width="12" />
 
----
+<img src="https://cdn.simpleicons.org/circleci" height="48" alt="CI logo" />
 
-### ⚙️ CI/CD & Version Control
+<img width="12" />
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=githubactions,git,github" />
+<img src="https://cdn.simpleicons.org/argo" height="48" alt="CD logo" />
 
 </div>
 
@@ -290,6 +212,7 @@
 <div align="center">
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![AIO Tests](https://img.shields.io/badge/AIO_Tests-6A1B9A?style=for-the-badge)
 ![Test Plans](https://img.shields.io/badge/Test_Planning-00897B?style=for-the-badge)
 ![Execution Reports](https://img.shields.io/badge/Test_Execution_Reports-3949AB?style=for-the-badge)
 ![RTM](https://img.shields.io/badge/RTM-546E7A?style=for-the-badge)
@@ -304,7 +227,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,java,js,python,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,js,cs,mysql" />
 
 </div>
 
@@ -314,11 +237,18 @@
 
 <div align="center">
 
+<img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="mysql logo" />
 
 <img width="12" />
 
 <img src="https://cdn.simpleicons.org/sqlite" height="48" alt="sql queries logo" />
+
+<img width="12" />
+
+<img src="https://cdn.simpleicons.org/databricks" height="48" alt="test data setup logo" />
+
 
 </div>
 
@@ -397,6 +327,11 @@
 
 <img width="12" />
 
+<!-- Jenkins -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="48" alt="jenkins logo" />
+
+<img width="12" />
+
 <!-- Chrome DevTools -->
 <img src="https://cdn.simpleicons.org/googlechrome" height="48" alt="chrome devtools logo" />
 
@@ -419,7 +354,7 @@
 
 ---
 
-### 🌱 Currently Learning / Roadmap
+### 🌱 Currently Learning
 
 <div align="center">
 
@@ -427,9 +362,6 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium_Mobile_Testing-662D91?style=for-the-badge)
 ![JMeter](https://img.shields.io/badge/JMeter_Performance_Testing-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -482,7 +414,7 @@ Automation Testing:
   ✔ Selenium WebDriver Framework Development
   ✔ Page Object Model (POM) Architecture
   ✔ Data-Driven Testing
-  ✔ NUnit Test Execution (C#)
+  ✔ TestNG / JUnit Test Execution
   ✔ Extent Reports HTML Reporting
   ✔ CI/CD Pipeline Integration (GitHub Actions)
 
@@ -510,14 +442,6 @@ Test Management & Process:
 <div align="center">
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadMujeebUrRehman2003&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMujeebUrRehman2003&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMujeebUrRehman2003&theme=tokyonight&hide_border=true" />
 
 <br>
@@ -525,10 +449,6 @@ Test Management & Process:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMujeebUrRehman2003&theme=tokyo-night&hide_border=true" />
 
 </div>
-
-<!-- Note: the top-langs card will look most accurate once generated-report folders (Extent
-     Reports HTML, bin/obj, node_modules) are excluded via .gitignore / .gitattributes —
-     see the audit's Tech Stack section for why HTML is currently overrepresented. -->
 
 ---
 
