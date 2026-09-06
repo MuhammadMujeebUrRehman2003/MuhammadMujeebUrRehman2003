@@ -1,51 +1,132 @@
-# Hi 👋, I'm Muhammad Mujeeb Ur Rehman
+# 🔬 Manual + API Testing Suite
 
-### QA Automation Engineer | Selenium · API Testing · CI/CD
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-1E90FF?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![RTM](https://img.shields.io/badge/RTM-546E7A?style=flat)
 
-- 🔭 Currently building out a Playwright suite to run alongside my Selenium framework
-- 🌱 Currently learning Playwright, Cypress, and Appium (mobile testing)
-- 👯 Looking to collaborate on test automation frameworks, API testing projects, or anything QA-in-CI/CD
-- 💼 QA + Dev seat @ Eaxeesoft — built and tested two live Odoo ERP modules (UMS, POS) in Python/JavaScript
-- 💬 Ask me about Selenium WebDriver, API testing (Postman/REST Assured), Page Object Model design, or defect triage
-- 📫 Reach me: muj00001.rehman@gmail.com
-- 📄 More on my background: [linkedin.com/in/muhammad-mujeeb-ur-rehman](https://linkedin.com/in/muhammad-mujeeb-ur-rehman)
+A structured manual and API test suite for the [Sauce Demo](https://www.saucedemo.com/) e-commerce web application — 50+ test cases mapped to a Requirements Traceability Matrix, plus REST API validation via Postman across the core CRUD methods.
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mujeeb-ur-rehman)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muj00001.rehman@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMujeebUrRehman2003)
+Unlike the [Selenium framework repo](REPLACE-WITH-SELENIUM-REPO-LINK), this project isn't meant to be *run* — it's meant to be *reviewed*. The value here is in the documentation artifacts: test case design, traceability, defect reporting, and API contract validation.
 
 ---
 
-## 🚀 Projects
+## 📌 What's in here
 
-### Selenium WebDriver Automation Framework
-POM-based automation framework covering login, cart, and checkout flows — data-driven testing with NUnit, Extent Reports, and CI integration via GitHub Actions. Cut estimated long-term maintenance effort by ~40% vs. unstructured scripts.
-
-**Stack:** Selenium WebDriver · C# · NUnit · GitHub Actions · Extent Reports
-
-🔗 **[View the code](ADD-YOUR-REPO-LINK-HERE)** ← replace with the real repo URL
-
-### Manual + API Testing Suite
-50+ structured test cases (positive, negative, boundary, equivalence) mapped to a full Requirements Traceability Matrix, plus REST API validation in Postman across GET/POST/PUT/PATCH/DELETE.
-
-**Stack:** Manual Testing · Postman · Jira · RTM
-
-🔗 **[View the code](ADD-YOUR-REPO-LINK-HERE)** ← replace with the real repo URL
-
-> ⚠️ Both links above are placeholders. This is the one step that actually closes the gap — a description without a working link is still just a claim.
+- **50+ structured test cases** — positive, negative, boundary value, and equivalence partitioning — covering login, product listing, sorting, cart, and checkout
+- **Requirements Traceability Matrix (RTM)** — every test case mapped back to a requirement, so coverage gaps are visible at a glance
+- **Postman collection** — REST API checks across GET/POST/PUT/PATCH/DELETE, validating status codes (200, 400, 401, 404) and response data
+- **Defect reports** — bugs logged with reproduction steps, expected vs. actual results, severity/priority, and screenshots
+- **Gherkin-style scenarios** (Given/When/Then) for the highest-traffic flows, for easier review by non-technical stakeholders
 
 ---
 
-## 🛠️ Languages & Tools
+## 📂 Repository Structure
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,js,html,css,mysql,git,github,vscode)](https://skillicons.dev)
+```
+ManualAPITestingSuite/
+├── TestCases/
+│   └── TestCases.xlsx              # All 50+ test cases (ID, steps, expected result, status)
+├── RTM/
+│   └── RequirementsTraceabilityMatrix.xlsx
+├── APITests/
+│   ├── SauceDemoAPI.postman_collection.json
+│   └── SauceDemoAPI.postman_environment.json
+├── BugReports/
+│   ├── BUG-001-cart-total-mismatch.md
+│   └── screenshots/
+├── docs/
+│   └── test-summary.png            # Coverage/pass-fail snapshot
+└── README.md
+```
+
+> ⚠️ Same note as the Selenium repo: this is a template structure. Match it to whatever you actually organized — don't commit a tree that doesn't reflect the real folders.
 
 ---
 
-## 📊 GitHub Stats
+## ✅ Test Coverage Summary
 
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadMujeebUrRehman2003&show_icons=true&theme=tokyonight&hide_border=true)
+| Module | Test Cases | Type Coverage |
+|---|---|---|
+| Login | 12 | Positive, negative, boundary |
+| Product Listing / Sorting | 10 | Positive, equivalence partitioning |
+| Cart | 14 | Positive, negative |
+| Checkout | 16 | Positive, negative, boundary |
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMujeebUrRehman2003&theme=tokyonight&hide_border=true)
+> Replace the numbers with your real counts from the RTM — these are placeholders matching the "50+" total you've cited elsewhere.
+
+---
+
+## 🔌 API Testing
+
+Endpoints validated via Postman, covering standard REST methods and expected status codes:
+
+| Method | Purpose | Status Codes Validated |
+|---|---|---|
+| GET | Retrieve resource | 200, 404 |
+| POST | Create resource | 201, 400 |
+| PUT | Full update | 200, 400 |
+| PATCH | Partial update | 200, 400 |
+| DELETE | Remove resource | 200/204, 401 |
+
+### Running the API checks yourself
+1. Import `APITests/SauceDemoAPI.postman_collection.json` and the matching environment file into Postman
+2. Select the imported environment
+3. Run the collection via the Collection Runner, or individually per request
+
+---
+
+## 🐛 Defect Reporting
+
+Each defect in `BugReports/` follows a consistent format:
+
+```markdown
+## BUG-XXX: [Short title]
+**Severity:** High / Medium / Low
+**Priority:** P1 / P2 / P3
+
+**Steps to Reproduce:**
+1. ...
+2. ...
+
+**Expected Result:** ...
+**Actual Result:** ...
+
+**Screenshot:** ![](screenshots/BUG-XXX.png)
+```
+
+> Move your real logged defects into this structure — even 3-4 well-documented ones are more convincing than a claim of "15+ bugs" with none visible.
+
+---
+
+## 🤖 Optional: Automate the API checks in CI
+
+The manual test cases stay manual by nature, but the Postman collection doesn't have to. Running it via [Newman](https://github.com/postmanlabs/newman) (Postman's CLI runner) in GitHub Actions turns this from "I tested the API" into "here's a green checkmark proving the API contract still holds on every push" — genuinely the highest-leverage addition you could make to this specific repo.
+
+```yaml
+# .github/workflows/api-tests.yml
+name: API Tests
+on: [push, pull_request]
+jobs:
+  run-postman-collection:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Newman
+        run: npm install -g newman
+      - name: Run Postman Collection
+        run: newman run APITests/SauceDemoAPI.postman_collection.json -e APITests/SauceDemoAPI.postman_environment.json
+```
+
+Once this runs successfully at least once, add:
+```
+![API Tests](https://github.com/MuhammadMujeebUrRehman2003/REPLACE-WITH-REPO-NAME/actions/workflows/api-tests.yml/badge.svg)
+```
+
+---
+
+## 👤 Author
+
+**Muhammad Mujeeb Ur Rehman** — QA Automation Engineer
+[LinkedIn](https://linkedin.com/in/muhammad-mujeeb-ur-rehman) · [GitHub](https://github.com/MuhammadMujeebUrRehman2003)
 
